@@ -1,0 +1,4 @@
+baseURL = "http://zhange.github.io/ericswebsite/"
+languageCode = "en-us"
+title = "Eric Zhang"
+theme = "manis"
