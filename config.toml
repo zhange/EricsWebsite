@@ -1,4 +1,4 @@
-baseURL = "http://zhange.github.io/ericswebsite/"
+baseURL = "https://zhange.github.io/ericswebsite/"
 languageCode = "en-us"
 title = "Eric Zhang"
 theme = "manis"
